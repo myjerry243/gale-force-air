@@ -1,0 +1,818 @@
+{
+ "en": [
+  {
+   "model": "LBS-300",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-300",
+   "spec": "Power: 60 W\n220V 50HZ\nAirflow: 2600m³/H\nDirect Drive",
+   "dims": "300*200*300",
+   "fob220": 138,
+   "fob380": 138,
+   "load40hq": 3500,
+   "variants": [
+    "Power: 60 W\n220V 50HZ\nAirflow: 2600m³/H\nDirect Drive"
+   ]
+  },
+  {
+   "model": "LBS-400",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-400",
+   "spec": "Power: 180W\n220V/380V/50HZ\nAirflow: 3500m³/H\nDirect Drive",
+   "dims": "400*200*400",
+   "fob220": 207,
+   "fob380": 196,
+   "load40hq": 2000,
+   "variants": [
+    "Power: 180W\n220V/380V/50HZ\nAirflow: 3500m³/H\nDirect Drive"
+   ]
+  },
+  {
+   "model": "LBS-500",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-500",
+   "spec": "180W/380V/50HZ\nAirflow: 5000m³/H\nDirect Drive",
+   "dims": "500*200*500",
+   "fob220": 254,
+   "fob380": 220,
+   "load40hq": 1360,
+   "variants": [
+    "180W/380V/50HZ\nAirflow: 5000m³/H\nDirect Drive"
+   ]
+  },
+  {
+   "model": "LBS-600",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-600",
+   "spec": "250W/380V/50HZ\nAirflow: 8500m³/H\nDirect Drive",
+   "dims": "600*300*600",
+   "fob220": 310,
+   "fob380": 265,
+   "load40hq": 629,
+   "variants": [
+    "250W/380V/50HZ\nAirflow: 8500m³/H\nDirect Drive"
+   ]
+  },
+  {
+   "model": "LBS-700",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-700",
+   "spec": "250W/380V/50HZ\nAirflow: 10000m³/H\nDirect Drive",
+   "dims": "700*700*300",
+   "fob220": 337,
+   "fob380": 292,
+   "load40hq": 462,
+   "variants": [
+    "250W/380V/50HZ\nAirflow: 10000m³/H\nDirect Drive"
+   ]
+  },
+  {
+   "model": "LBS-800",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-800",
+   "spec": "Power: 370W\n220V/380V/50HZ\nAirflow: 23000m³/H\nBelt Drive",
+   "dims": "800*350*800",
+   "fob220": 433,
+   "fob380": 376,
+   "load40hq": 345,
+   "variants": [
+    "Power: 370W\n220V/380V/50HZ\nAirflow: 23000m³/H\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-900",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-900",
+   "spec": "Power: 370W\nVoltage: 220V/380V/50HZ\nAirflow: 28000m³/H\n28kg\nBelt Drive",
+   "dims": "900*350*900",
+   "fob220": 458,
+   "fob380": 401,
+   "load40hq": 305,
+   "variants": [
+    "Power: 370W\nVoltage: 220V/380V/50HZ\nAirflow: 28000m³/H\n28kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-1000",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-1000",
+   "spec": "Power: 550W\nVoltage: 220V/380V/50HZ\nAirflow: 32000m³/H\n33kg\nBelt Drive",
+   "dims": "1000*350*1000",
+   "fob220": 539,
+   "fob380": 483,
+   "load40hq": 190,
+   "variants": [
+    "Power: 550W\nVoltage: 220V/380V/50HZ\nAirflow: 32000m³/H\n33kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-1060",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-1060",
+   "spec": "Power: 550W\nVoltage: 220V/380V/50HZ\nAirflow: 35000m³/H\n36kg\nBelt Drive",
+   "dims": "1060*350*1060",
+   "fob220": 566,
+   "fob380": 509,
+   "load40hq": 170,
+   "variants": [
+    "Power: 550W\nVoltage: 220V/380V/50HZ\nAirflow: 35000m³/H\n36kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-1100",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-1100",
+   "spec": "Power: 550W\nVoltage: 220V/380V/50HZ\nAirflow: 36000m³/H\n37kg\nBelt Drive",
+   "dims": "1100*350*1100",
+   "fob220": 581,
+   "fob380": 524,
+   "load40hq": 155,
+   "variants": [
+    "Power: 550W\nVoltage: 220V/380V/50HZ\nAirflow: 36000m³/H\n37kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-1220",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-1220",
+   "spec": "Power: 750W\nVoltage: 220V/380V/50HZ\nAirflow: 38500m³/H\n42kg\nBelt Drive",
+   "dims": "1220*350*1220",
+   "fob220": 653,
+   "fob380": 586,
+   "load40hq": 125,
+   "variants": [
+    "Power: 750W\nVoltage: 220V/380V/50HZ\nAirflow: 38500m³/H\n42kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-1380",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-1380",
+   "spec": "Power: 1100W\nVoltage: 220V/380V/50HZ\nAirflow: 45000m³/H\n52kg\nBelt Drive",
+   "dims": "1380*350*1380",
+   "fob220": 757,
+   "fob380": 656,
+   "load40hq": 100,
+   "variants": [
+    "Power: 1100W\nVoltage: 220V/380V/50HZ\nAirflow: 45000m³/H\n52kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "LBS-1530",
+   "fullname": "Galvanized Steel Negative Pressure Fan LBS-1530",
+   "spec": "Power: 1500W\nVoltage: 220V/380V/50HZ\nAirflow: 57000m³/H\n65kg\nBelt Drive",
+   "dims": "1530*350*1530",
+   "fob220": 865,
+   "fob380": 763,
+   "load40hq": 80,
+   "variants": [
+    "Power: 1500W\nVoltage: 220V/380V/50HZ\nAirflow: 57000m³/H\n65kg\nBelt Drive"
+   ]
+  },
+  {
+   "model": "200#",
+   "fullname": "Axial Fan 200#",
+   "spec": "2-Pole Motor\nPower: 120W\nAirflow: 1300m³/h Total Pressure: 140PA\nSpeed: 2800r/min",
+   "dims": "Inner Dia.: 21cm Outer Dia.: 26cm Height: 23cm",
+   "fob220": 155,
+   "fob380": 155,
+   "load40hq": 4300,
+   "variants": [
+    "2-Pole Motor\nPower: 120W\nAirflow: 1300m³/h Total Pressure: 140PA\nSpeed: 2800r/min",
+    "4-Pole Motor\nPower: 60W\nAirflow: 600m³/h Total Pressure: 20PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "250#",
+   "fullname": "Axial Fan 250#",
+   "spec": "2-Pole Motor\nPower: 250W\nAirflow: 2100m³/h Total Pressure: 215PA\nSpeed: 2800r/min",
+   "dims": "Inner Dia.: 26cm Outer Dia.: 31cm Height: 23cm",
+   "fob220": 172,
+   "fob380": 172,
+   "load40hq": 4300,
+   "variants": [
+    "2-Pole Motor\nPower: 250W\nAirflow: 2100m³/h Total Pressure: 215PA\nSpeed: 2800r/min",
+    "4-Pole Motor\nPower: 90W\nAirflow: 1000m³/h Total Pressure: 35PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "300#",
+   "fullname": "Axial Fan 300#",
+   "spec": "2-Pole Motor\nPower: 370W\nAirflow: 3000m³/h Total Pressure: 230PA\nSpeed: 2800r/min",
+   "dims": "Inner Dia.: 31cm Outer Dia.: 36cm Height: 23cm",
+   "fob220": 179,
+   "fob380": 179,
+   "load40hq": 2200,
+   "variants": [
+    "2-Pole Motor\nPower: 370W\nAirflow: 3000m³/h Total Pressure: 230PA\nSpeed: 2800r/min",
+    "4-Pole Motor\nPower: 120W\nAirflow: 2000m³/h Total Pressure: 90PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "350#",
+   "fullname": "Axial Fan 350#",
+   "spec": "2-Pole Motor\nPower: 750W\nAirflow: 6000m³/h Total Pressure: 260PA\nSpeed: 2800r/min",
+   "dims": "Inner Dia.: 36cm Outer Dia.: 41cm Height: 33cm",
+   "fob220": 266,
+   "fob380": 266,
+   "load40hq": 1200,
+   "variants": [
+    "2-Pole Motor\nPower: 750W\nAirflow: 6000m³/h Total Pressure: 260PA\nSpeed: 2800r/min",
+    "4-Pole Motor\nPower: 250W\nAirflow: 4000m³/h Total Pressure: 100PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "400#",
+   "fullname": "Axial Fan 400#",
+   "spec": "2-Pole Motor\nPower: 1500W\nAirflow: 11000m³/h Total Pressure: 230PA\nSpeed: 2800r/min",
+   "dims": "Inner Dia.: 41cm Outer Dia.: 46cm Height: 33cm",
+   "fob220": 280,
+   "fob380": 280,
+   "load40hq": 900,
+   "variants": [
+    "2-Pole Motor\nPower: 1500W\nAirflow: 11000m³/h Total Pressure: 230PA\nSpeed: 2800r/min",
+    "4-Pole Motor\nPower: 550W\nAirflow: 5870m³/h Total Pressure: 149PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "500#",
+   "fullname": "Axial Fan 500#",
+   "spec": "2-Pole Motor\nPower: 2200W\nAirflow: 18700m³/h Total Pressure: 300PA\nSpeed: 2800r/min",
+   "dims": "Inner Dia.: 51cm Outer Dia.: 56cm Height: 33cm",
+   "fob220": 520,
+   "fob380": 520,
+   "load40hq": 600,
+   "variants": [
+    "2-Pole Motor\nPower: 2200W\nAirflow: 18700m³/h Total Pressure: 300PA\nSpeed: 2800r/min",
+    "4-Pole Motor\nPower: 750W\nAirflow: 10000m³/h Total Pressure: 200PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "600#",
+   "fullname": "Axial Fan 600#",
+   "spec": "4-Pole Motor\nPower: 2200W\nAirflow: 18700m³/h Total Pressure: 300PA\nSpeed: 1450r/min",
+   "dims": "Inner Dia.: 61cm Outer Dia.: 66cm Height: 45cm",
+   "fob220": 642,
+   "fob380": 507,
+   "load40hq": 340,
+   "variants": [
+    "4-Pole Motor\nPower: 2200W\nAirflow: 18700m³/h Total Pressure: 300PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "700#",
+   "fullname": "Axial Fan 700#",
+   "spec": "4-Pole Motor Power: 3000W\nAirflow: 24500m³/h Total Pressure: 350PA\nSpeed: 1450r/min",
+   "dims": "Inner Dia.: 71cm Outer Dia.: 76cm Height: 55cm",
+   "fob220": null,
+   "fob380": 814,
+   "load40hq": 200,
+   "variants": [
+    "4-Pole Motor Power: 3000W\nAirflow: 24500m³/h Total Pressure: 350PA\nSpeed: 1450r/min"
+   ]
+  },
+  {
+   "model": "800#",
+   "fullname": "Axial Fan 800#",
+   "spec": "4-Pole Motor\nPower: 4000W\nAirflow: 37200m³/h Total Pressure: 435PA\nSpeed: 1450r/min",
+   "dims": "Inner Dia.: 81cm Outer Dia.: 86cm Height: 55cm",
+   "fob220": null,
+   "fob380": 1085,
+   "load40hq": 150,
+   "variants": [
+    "4-Pole Motor\nPower: 4000W\nAirflow: 37200m³/h Total Pressure: 435PA\nSpeed: 1450r/min"
+   ]
+  }
+ ],
+ "es": [
+  {
+   "model": "LBS-300",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-300",
+   "spec": "Potencia: 60 W\n220V 50HZ\nFlujo de Aire: 2600m³/H\nAccionamiento Directo",
+   "dims": "300*200*300",
+   "fob220": 138,
+   "fob380": 138,
+   "load40hq": 3500,
+   "variants": [
+    "Potencia: 60 W\n220V 50HZ\nFlujo de Aire: 2600m³/H\nAccionamiento Directo"
+   ]
+  },
+  {
+   "model": "LBS-400",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-400",
+   "spec": "Potencia: 180W\n220V/380V/50HZ\nFlujo de Aire: 3500m³/H\nAccionamiento Directo",
+   "dims": "400*200*400",
+   "fob220": 207,
+   "fob380": 196,
+   "load40hq": 2000,
+   "variants": [
+    "Potencia: 180W\n220V/380V/50HZ\nFlujo de Aire: 3500m³/H\nAccionamiento Directo"
+   ]
+  },
+  {
+   "model": "LBS-500",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-500",
+   "spec": "180W/380V/50HZ\nFlujo de Aire: 5000m³/H\nAccionamiento Directo",
+   "dims": "500*200*500",
+   "fob220": 254,
+   "fob380": 220,
+   "load40hq": 1360,
+   "variants": [
+    "180W/380V/50HZ\nFlujo de Aire: 5000m³/H\nAccionamiento Directo"
+   ]
+  },
+  {
+   "model": "LBS-600",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-600",
+   "spec": "250W/380V/50HZ\nFlujo de Aire: 8500m³/H\nAccionamiento Directo",
+   "dims": "600*300*600",
+   "fob220": 310,
+   "fob380": 265,
+   "load40hq": 629,
+   "variants": [
+    "250W/380V/50HZ\nFlujo de Aire: 8500m³/H\nAccionamiento Directo"
+   ]
+  },
+  {
+   "model": "LBS-700",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-700",
+   "spec": "250W/380V/50HZ\nFlujo de Aire: 10000m³/H\nAccionamiento Directo",
+   "dims": "700*700*300",
+   "fob220": 337,
+   "fob380": 292,
+   "load40hq": 462,
+   "variants": [
+    "250W/380V/50HZ\nFlujo de Aire: 10000m³/H\nAccionamiento Directo"
+   ]
+  },
+  {
+   "model": "LBS-800",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-800",
+   "spec": "Potencia: 370W\n220V/380V/50HZ\nFlujo de Aire: 23000m³/H\nAccionamiento por Correa",
+   "dims": "800*350*800",
+   "fob220": 433,
+   "fob380": 376,
+   "load40hq": 345,
+   "variants": [
+    "Potencia: 370W\n220V/380V/50HZ\nFlujo de Aire: 23000m³/H\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-900",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-900",
+   "spec": "Potencia: 370W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 28000m³/H\n28kg\nAccionamiento por Correa",
+   "dims": "900*350*900",
+   "fob220": 458,
+   "fob380": 401,
+   "load40hq": 305,
+   "variants": [
+    "Potencia: 370W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 28000m³/H\n28kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-1000",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-1000",
+   "spec": "Potencia: 550W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 32000m³/H\n33kg\nAccionamiento por Correa",
+   "dims": "1000*350*1000",
+   "fob220": 539,
+   "fob380": 483,
+   "load40hq": 190,
+   "variants": [
+    "Potencia: 550W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 32000m³/H\n33kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-1060",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-1060",
+   "spec": "Potencia: 550W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 35000m³/H\n36kg\nAccionamiento por Correa",
+   "dims": "1060*350*1060",
+   "fob220": 566,
+   "fob380": 509,
+   "load40hq": 170,
+   "variants": [
+    "Potencia: 550W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 35000m³/H\n36kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-1100",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-1100",
+   "spec": "Potencia: 550W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 36000m³/H\n37kg\nAccionamiento por Correa",
+   "dims": "1100*350*1100",
+   "fob220": 581,
+   "fob380": 524,
+   "load40hq": 155,
+   "variants": [
+    "Potencia: 550W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 36000m³/H\n37kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-1220",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-1220",
+   "spec": "Potencia: 750W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 38500m³/H\n42kg\nAccionamiento por Correa",
+   "dims": "1220*350*1220",
+   "fob220": 653,
+   "fob380": 586,
+   "load40hq": 125,
+   "variants": [
+    "Potencia: 750W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 38500m³/H\n42kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-1380",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-1380",
+   "spec": "Potencia: 1100W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 45000m³/H\n52kg\nAccionamiento por Correa",
+   "dims": "1380*350*1380",
+   "fob220": 757,
+   "fob380": 656,
+   "load40hq": 100,
+   "variants": [
+    "Potencia: 1100W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 45000m³/H\n52kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "LBS-1530",
+   "fullname": "Acero Galvanizado Ventilador de Presión Negativa LBS-1530",
+   "spec": "Potencia: 1500W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 57000m³/H\n65kg\nAccionamiento por Correa",
+   "dims": "1530*350*1530",
+   "fob220": 865,
+   "fob380": 763,
+   "load40hq": 80,
+   "variants": [
+    "Potencia: 1500W\nVoltaje: 220V/380V/50HZ\nFlujo de Aire: 57000m³/H\n65kg\nAccionamiento por Correa"
+   ]
+  },
+  {
+   "model": "200#",
+   "fullname": "Ventilador Axial 200#",
+   "spec": "Motor de 2 Polos\nPotencia: 120W\nFlujo de Aire: 1300m³/h Presión Total: 140PA\nVelocidad: 2800r/min",
+   "dims": "Diámetro Int.: 21cm Diámetro Ext.: 26cm Altura: 23cm",
+   "fob220": 155,
+   "fob380": 155,
+   "load40hq": 4300,
+   "variants": [
+    "Motor de 2 Polos\nPotencia: 120W\nFlujo de Aire: 1300m³/h Presión Total: 140PA\nVelocidad: 2800r/min",
+    "Motor de 4 Polos\nPotencia: 60W\nFlujo de Aire: 600m³/h Presión Total: 20PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "250#",
+   "fullname": "Ventilador Axial 250#",
+   "spec": "Motor de 2 Polos\nPotencia: 250W\nFlujo de Aire: 2100m³/h Presión Total: 215PA\nVelocidad: 2800r/min",
+   "dims": "Diámetro Int.: 26cm Diámetro Ext.: 31cm Altura: 23cm",
+   "fob220": 172,
+   "fob380": 172,
+   "load40hq": 4300,
+   "variants": [
+    "Motor de 2 Polos\nPotencia: 250W\nFlujo de Aire: 2100m³/h Presión Total: 215PA\nVelocidad: 2800r/min",
+    "Motor de 4 Polos\nPotencia: 90W\nFlujo de Aire: 1000m³/h Presión Total: 35PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "300#",
+   "fullname": "Ventilador Axial 300#",
+   "spec": "Motor de 2 Polos\nPotencia: 370W\nFlujo de Aire: 3000m³/h Presión Total: 230PA\nVelocidad: 2800r/min",
+   "dims": "Diámetro Int.: 31cm Diámetro Ext.: 36cm Altura: 23cm",
+   "fob220": 179,
+   "fob380": 179,
+   "load40hq": 2200,
+   "variants": [
+    "Motor de 2 Polos\nPotencia: 370W\nFlujo de Aire: 3000m³/h Presión Total: 230PA\nVelocidad: 2800r/min",
+    "Motor de 4 Polos\nPotencia: 120W\nFlujo de Aire: 2000m³/h Presión Total: 90PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "350#",
+   "fullname": "Ventilador Axial 350#",
+   "spec": "Motor de 2 Polos\nPotencia: 750W\nFlujo de Aire: 6000m³/h Presión Total: 260PA\nVelocidad: 2800r/min",
+   "dims": "Diámetro Int.: 36cm Diámetro Ext.: 41cm Altura: 33cm",
+   "fob220": 266,
+   "fob380": 266,
+   "load40hq": 1200,
+   "variants": [
+    "Motor de 2 Polos\nPotencia: 750W\nFlujo de Aire: 6000m³/h Presión Total: 260PA\nVelocidad: 2800r/min",
+    "Motor de 4 Polos\nPotencia: 250W\nFlujo de Aire: 4000m³/h Presión Total: 100PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "400#",
+   "fullname": "Ventilador Axial 400#",
+   "spec": "Motor de 2 Polos\nPotencia: 1500W\nFlujo de Aire: 11000m³/h Presión Total: 230PA\nVelocidad: 2800r/min",
+   "dims": "Diámetro Int.: 41cm Diámetro Ext.: 46cm Altura: 33cm",
+   "fob220": 280,
+   "fob380": 280,
+   "load40hq": 900,
+   "variants": [
+    "Motor de 2 Polos\nPotencia: 1500W\nFlujo de Aire: 11000m³/h Presión Total: 230PA\nVelocidad: 2800r/min",
+    "Motor de 4 Polos\nPotencia: 550W\nFlujo de Aire: 5870m³/h Presión Total: 149PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "500#",
+   "fullname": "Ventilador Axial 500#",
+   "spec": "Motor de 2 Polos\nPotencia: 2200W\nFlujo de Aire: 18700m³/h Presión Total: 300PA\nVelocidad: 2800r/min",
+   "dims": "Diámetro Int.: 51cm Diámetro Ext.: 56cm Altura: 33cm",
+   "fob220": 520,
+   "fob380": 520,
+   "load40hq": 600,
+   "variants": [
+    "Motor de 2 Polos\nPotencia: 2200W\nFlujo de Aire: 18700m³/h Presión Total: 300PA\nVelocidad: 2800r/min",
+    "Motor de 4 Polos\nPotencia: 750W\nFlujo de Aire: 10000m³/h Presión Total: 200PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "600#",
+   "fullname": "Ventilador Axial 600#",
+   "spec": "Motor de 4 Polos\nPotencia: 2200W\nFlujo de Aire: 18700m³/h Presión Total: 300PA\nVelocidad: 1450r/min",
+   "dims": "Diámetro Int.: 61cm Diámetro Ext.: 66cm Altura: 45cm",
+   "fob220": 642,
+   "fob380": 507,
+   "load40hq": 340,
+   "variants": [
+    "Motor de 4 Polos\nPotencia: 2200W\nFlujo de Aire: 18700m³/h Presión Total: 300PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "700#",
+   "fullname": "Ventilador Axial 700#",
+   "spec": "Motor de 4 Polos Potencia: 3000W\nFlujo de Aire: 24500m³/h Presión Total: 350PA\nVelocidad: 1450r/min",
+   "dims": "Diámetro Int.: 71cm Diámetro Ext.: 76cm Altura: 55cm",
+   "fob220": null,
+   "fob380": 814,
+   "load40hq": 200,
+   "variants": [
+    "Motor de 4 Polos Potencia: 3000W\nFlujo de Aire: 24500m³/h Presión Total: 350PA\nVelocidad: 1450r/min"
+   ]
+  },
+  {
+   "model": "800#",
+   "fullname": "Ventilador Axial 800#",
+   "spec": "Motor de 4 Polos\nPotencia: 4000W\nFlujo de Aire: 37200m³/h Presión Total: 435PA\nVelocidad: 1450r/min",
+   "dims": "Diámetro Int.: 81cm Diámetro Ext.: 86cm Altura: 55cm",
+   "fob220": null,
+   "fob380": 1085,
+   "load40hq": 150,
+   "variants": [
+    "Motor de 4 Polos\nPotencia: 4000W\nFlujo de Aire: 37200m³/h Presión Total: 435PA\nVelocidad: 1450r/min"
+   ]
+  }
+ ],
+ "pt": [
+  {
+   "model": "LBS-300",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-300",
+   "spec": "Potência: 60 W\n220V 50HZ\nFluxo de Ar: 2600m³/H\nAcionamento Direto",
+   "dims": "300*200*300",
+   "fob220": 138,
+   "fob380": 138,
+   "load40hq": 3500,
+   "variants": [
+    "Potência: 60 W\n220V 50HZ\nFluxo de Ar: 2600m³/H\nAcionamento Direto"
+   ]
+  },
+  {
+   "model": "LBS-400",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-400",
+   "spec": "Potência: 180W\n220V/380V/50HZ\nFluxo de Ar: 3500m³/H\nAcionamento Direto",
+   "dims": "400*200*400",
+   "fob220": 207,
+   "fob380": 196,
+   "load40hq": 2000,
+   "variants": [
+    "Potência: 180W\n220V/380V/50HZ\nFluxo de Ar: 3500m³/H\nAcionamento Direto"
+   ]
+  },
+  {
+   "model": "LBS-500",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-500",
+   "spec": "180W/380V/50HZ\nFluxo de Ar: 5000m³/H\nAcionamento Direto",
+   "dims": "500*200*500",
+   "fob220": 254,
+   "fob380": 220,
+   "load40hq": 1360,
+   "variants": [
+    "180W/380V/50HZ\nFluxo de Ar: 5000m³/H\nAcionamento Direto"
+   ]
+  },
+  {
+   "model": "LBS-600",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-600",
+   "spec": "250W/380V/50HZ\nFluxo de Ar: 8500m³/H\nAcionamento Direto",
+   "dims": "600*300*600",
+   "fob220": 310,
+   "fob380": 265,
+   "load40hq": 629,
+   "variants": [
+    "250W/380V/50HZ\nFluxo de Ar: 8500m³/H\nAcionamento Direto"
+   ]
+  },
+  {
+   "model": "LBS-700",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-700",
+   "spec": "250W/380V/50HZ\nFluxo de Ar: 10000m³/H\nAcionamento Direto",
+   "dims": "700*700*300",
+   "fob220": 337,
+   "fob380": 292,
+   "load40hq": 462,
+   "variants": [
+    "250W/380V/50HZ\nFluxo de Ar: 10000m³/H\nAcionamento Direto"
+   ]
+  },
+  {
+   "model": "LBS-800",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-800",
+   "spec": "Potência: 370W\n220V/380V/50HZ\nFluxo de Ar: 23000m³/H\nAcionamento por Correia",
+   "dims": "800*350*800",
+   "fob220": 433,
+   "fob380": 376,
+   "load40hq": 345,
+   "variants": [
+    "Potência: 370W\n220V/380V/50HZ\nFluxo de Ar: 23000m³/H\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-900",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-900",
+   "spec": "Potência: 370W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 28000m³/H\n28kg\nAcionamento por Correia",
+   "dims": "900*350*900",
+   "fob220": 458,
+   "fob380": 401,
+   "load40hq": 305,
+   "variants": [
+    "Potência: 370W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 28000m³/H\n28kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-1000",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-1000",
+   "spec": "Potência: 550W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 32000m³/H\n33kg\nAcionamento por Correia",
+   "dims": "1000*350*1000",
+   "fob220": 539,
+   "fob380": 483,
+   "load40hq": 190,
+   "variants": [
+    "Potência: 550W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 32000m³/H\n33kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-1060",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-1060",
+   "spec": "Potência: 550W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 35000m³/H\n36kg\nAcionamento por Correia",
+   "dims": "1060*350*1060",
+   "fob220": 566,
+   "fob380": 509,
+   "load40hq": 170,
+   "variants": [
+    "Potência: 550W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 35000m³/H\n36kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-1100",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-1100",
+   "spec": "Potência: 550W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 36000m³/H\n37kg\nAcionamento por Correia",
+   "dims": "1100*350*1100",
+   "fob220": 581,
+   "fob380": 524,
+   "load40hq": 155,
+   "variants": [
+    "Potência: 550W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 36000m³/H\n37kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-1220",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-1220",
+   "spec": "Potência: 750W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 38500m³/H\n42kg\nAcionamento por Correia",
+   "dims": "1220*350*1220",
+   "fob220": 653,
+   "fob380": 586,
+   "load40hq": 125,
+   "variants": [
+    "Potência: 750W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 38500m³/H\n42kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-1380",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-1380",
+   "spec": "Potência: 1100W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 45000m³/H\n52kg\nAcionamento por Correia",
+   "dims": "1380*350*1380",
+   "fob220": 757,
+   "fob380": 656,
+   "load40hq": 100,
+   "variants": [
+    "Potência: 1100W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 45000m³/H\n52kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "LBS-1530",
+   "fullname": "Aço Galvanizado Ventilador de Pressão Negativa LBS-1530",
+   "spec": "Potência: 1500W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 57000m³/H\n65kg\nAcionamento por Correia",
+   "dims": "1530*350*1530",
+   "fob220": 865,
+   "fob380": 763,
+   "load40hq": 80,
+   "variants": [
+    "Potência: 1500W\nTensão: 220V/380V/50HZ\nFluxo de Ar: 57000m³/H\n65kg\nAcionamento por Correia"
+   ]
+  },
+  {
+   "model": "200#",
+   "fullname": "Ventilador Axial 200#",
+   "spec": "Motor de 2 Polos\nPotência: 120W\nFluxo de Ar: 1300m³/h Pressão Total: 140PA\nVelocidade: 2800r/min",
+   "dims": "Diâmetro Int.: 21cm Diâmetro Ext.: 26cm Altura: 23cm",
+   "fob220": 155,
+   "fob380": 155,
+   "load40hq": 4300,
+   "variants": [
+    "Motor de 2 Polos\nPotência: 120W\nFluxo de Ar: 1300m³/h Pressão Total: 140PA\nVelocidade: 2800r/min",
+    "Motor de 4 Polos\nPotência: 60W\nFluxo de Ar: 600m³/h Pressão Total: 20PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "250#",
+   "fullname": "Ventilador Axial 250#",
+   "spec": "Motor de 2 Polos\nPotência: 250W\nFluxo de Ar: 2100m³/h Pressão Total: 215PA\nVelocidade: 2800r/min",
+   "dims": "Diâmetro Int.: 26cm Diâmetro Ext.: 31cm Altura: 23cm",
+   "fob220": 172,
+   "fob380": 172,
+   "load40hq": 4300,
+   "variants": [
+    "Motor de 2 Polos\nPotência: 250W\nFluxo de Ar: 2100m³/h Pressão Total: 215PA\nVelocidade: 2800r/min",
+    "Motor de 4 Polos\nPotência: 90W\nFluxo de Ar: 1000m³/h Pressão Total: 35PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "300#",
+   "fullname": "Ventilador Axial 300#",
+   "spec": "Motor de 2 Polos\nPotência: 370W\nFluxo de Ar: 3000m³/h Pressão Total: 230PA\nVelocidade: 2800r/min",
+   "dims": "Diâmetro Int.: 31cm Diâmetro Ext.: 36cm Altura: 23cm",
+   "fob220": 179,
+   "fob380": 179,
+   "load40hq": 2200,
+   "variants": [
+    "Motor de 2 Polos\nPotência: 370W\nFluxo de Ar: 3000m³/h Pressão Total: 230PA\nVelocidade: 2800r/min",
+    "Motor de 4 Polos\nPotência: 120W\nFluxo de Ar: 2000m³/h Pressão Total: 90PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "350#",
+   "fullname": "Ventilador Axial 350#",
+   "spec": "Motor de 2 Polos\nPotência: 750W\nFluxo de Ar: 6000m³/h Pressão Total: 260PA\nVelocidade: 2800r/min",
+   "dims": "Diâmetro Int.: 36cm Diâmetro Ext.: 41cm Altura: 33cm",
+   "fob220": 266,
+   "fob380": 266,
+   "load40hq": 1200,
+   "variants": [
+    "Motor de 2 Polos\nPotência: 750W\nFluxo de Ar: 6000m³/h Pressão Total: 260PA\nVelocidade: 2800r/min",
+    "Motor de 4 Polos\nPotência: 250W\nFluxo de Ar: 4000m³/h Pressão Total: 100PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "400#",
+   "fullname": "Ventilador Axial 400#",
+   "spec": "Motor de 2 Polos\nPotência: 1500W\nFluxo de Ar: 11000m³/h Pressão Total: 230PA\nVelocidade: 2800r/min",
+   "dims": "Diâmetro Int.: 41cm Diâmetro Ext.: 46cm Altura: 33cm",
+   "fob220": 280,
+   "fob380": 280,
+   "load40hq": 900,
+   "variants": [
+    "Motor de 2 Polos\nPotência: 1500W\nFluxo de Ar: 11000m³/h Pressão Total: 230PA\nVelocidade: 2800r/min",
+    "Motor de 4 Polos\nPotência: 550W\nFluxo de Ar: 5870m³/h Pressão Total: 149PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "500#",
+   "fullname": "Ventilador Axial 500#",
+   "spec": "Motor de 2 Polos\nPotência: 2200W\nFluxo de Ar: 18700m³/h Pressão Total: 300PA\nVelocidade: 2800r/min",
+   "dims": "Diâmetro Int.: 51cm Diâmetro Ext.: 56cm Altura: 33cm",
+   "fob220": 520,
+   "fob380": 520,
+   "load40hq": 600,
+   "variants": [
+    "Motor de 2 Polos\nPotência: 2200W\nFluxo de Ar: 18700m³/h Pressão Total: 300PA\nVelocidade: 2800r/min",
+    "Motor de 4 Polos\nPotência: 750W\nFluxo de Ar: 10000m³/h Pressão Total: 200PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "600#",
+   "fullname": "Ventilador Axial 600#",
+   "spec": "Motor de 4 Polos\nPotência: 2200W\nFluxo de Ar: 18700m³/h Pressão Total: 300PA\nVelocidade: 1450r/min",
+   "dims": "Diâmetro Int.: 61cm Diâmetro Ext.: 66cm Altura: 45cm",
+   "fob220": 642,
+   "fob380": 507,
+   "load40hq": 340,
+   "variants": [
+    "Motor de 4 Polos\nPotência: 2200W\nFluxo de Ar: 18700m³/h Pressão Total: 300PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "700#",
+   "fullname": "Ventilador Axial 700#",
+   "spec": "Motor de 4 Polos Potência: 3000W\nFluxo de Ar: 24500m³/h Pressão Total: 350PA\nVelocidade: 1450r/min",
+   "dims": "Diâmetro Int.: 71cm Diâmetro Ext.: 76cm Altura: 55cm",
+   "fob220": null,
+   "fob380": 814,
+   "load40hq": 200,
+   "variants": [
+    "Motor de 4 Polos Potência: 3000W\nFluxo de Ar: 24500m³/h Pressão Total: 350PA\nVelocidade: 1450r/min"
+   ]
+  },
+  {
+   "model": "800#",
+   "fullname": "Ventilador Axial 800#",
+   "spec": "Motor de 4 Polos\nPotência: 4000W\nFluxo de Ar: 37200m³/h Pressão Total: 435PA\nVelocidade: 1450r/min",
+   "dims": "Diâmetro Int.: 81cm Diâmetro Ext.: 86cm Altura: 55cm",
+   "fob220": null,
+   "fob380": 1085,
+   "load40hq": 150,
+   "variants": [
+    "Motor de 4 Polos\nPotência: 4000W\nFluxo de Ar: 37200m³/h Pressão Total: 435PA\nVelocidade: 1450r/min"
+   ]
+  }
+ ]
+}
